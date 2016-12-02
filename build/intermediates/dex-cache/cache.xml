@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_b8d1e79b57b2544050d9310c60770655bc9917e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspace\Android\PeaceOfHome_v2\app\libs\libDaumMapAndroid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b365841bba8bc2d592e4b22008885a6f0cd1c77d">
+        <dex dex="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\transforms\dex\debug\folders\1000\2\libDaumMapAndroid_82fb8c82ac00a7aa36276a7e3ed38a082864fd4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_f060c547ac992d7bec06ea9ae6594b30209b2340\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_d57882e7ddea25d37a7dca9e46531c688dc3247b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_c9fae43cda2e1c04b2ab0de43a8f148b5b1a92fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_8ea2056f759aa57fbd1f8d68024d9274c09e577f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_7dd67e6819a2b62c9f71d8d811399cdd12fbb596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6d8d4f96f292c96900aa073a37e43247e98dc3a6">
+        <dex dex="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d8fa226df72b9665f959a6e75eb0f69c7f009be1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="798031d5f1938f2ba095c95fdb7ea60cb3c2b01d">
+        <dex dex="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4599623e8cbf7e82cbdb22dd0a9273da3e771d1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_cbd6bbd14dbef1c1c54e953357c1f6fa5b6b37d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspace\Android\PeaceOfHome_v2\app\libs\com.skp.Tmap_1.0.43.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77529befb3766680a5ebc659facfcb9ad43a4fa9">
+        <dex dex="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\transforms\dex\debug\folders\1000\2\com.skp.Tmap_1.0.43_da3db1146e6826dfcb1222d5eb72845568720372\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Workspace\Android\PeaceOfHome_v2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e4a816893c5acf21f2b68d574839e46e8a4870c3\classes.dex" />
+    </item>
+
+</items>
